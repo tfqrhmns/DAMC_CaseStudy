@@ -25,7 +25,7 @@ This project presents an analysis of sales data with a focus on identifying perf
 
 ## Tools Used
 
-- Python (pandas, matplotlib)
+- Python (pandas)
 - Google Looker Studio (for interactive dashboards)
 
 ## Output
